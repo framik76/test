@@ -3,17 +3,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>test</groupId>
-    <artifactId>tests</artifactId>
+    <groupId>com.mondora</groupId>
+    <artifactId>themodules</artifactId>
     <version>${global.version}</version>
     <relativePath>..</relativePath>
   </parent>
 
-  <groupId>test</groupId>
-  <artifactId>test2</artifactId>
+  <groupId>com.mondora</groupId>
+  <artifactId>modulea</artifactId>
   <packaging>jar</packaging>
 
-  <name>test2</name>
+  <name>modulea</name>
   <url>http://maven.apache.org</url>
 
   <properties>

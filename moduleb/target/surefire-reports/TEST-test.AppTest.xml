@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="test.AppTest">
+<testsuite failures="0" time="0.021" errors="0" skipped="0" tests="1" name="test.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -16,13 +16,13 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/davidemanenti/projects/test"/>
+    <property name="user.dir" value="/Users/davidemanenti/projects/moduleb"/>
     <property name="java.runtime.version" value="1.6.0_65-b14-462-11M4609"/>
     <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment"/>
-    <property name="basedir" value="/Users/davidemanenti/projects/test"/>
+    <property name="basedir" value="/Users/davidemanenti/projects/moduleb"/>
     <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/davidemanenti/projects/test/target/surefire/surefirebooter1710394029174096985.jar"/>
+    <property name="surefire.real.class.path" value="/Users/davidemanenti/projects/moduleb/target/surefire/surefirebooter7860601634877723176.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/gh/wyl172ys231gjfd7fcg9_chm0000gn/T/"/>
     <property name="line.separator" value="
 "/>
@@ -30,7 +30,7 @@
     <property name="os.name" value="Mac OS X"/>
     <property name="sun.jnu.encoding" value="MacRoman"/>
     <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
-    <property name="surefire.test.class.path" value="/Users/davidemanenti/projects/test/target/test-classes:/Users/davidemanenti/projects/test/target/classes:/Users/davidemanenti/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/davidemanenti/projects/moduleb/target/test-classes:/Users/davidemanenti/projects/moduleb/target/classes:/Users/davidemanenti/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="50.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -42,11 +42,11 @@
     <property name="java.specification.version" value="1.6"/>
     <property name="file.encoding" value="MacRoman"/>
     <property name="user.name" value="davidemanenti"/>
-    <property name="java.class.path" value="/Users/davidemanenti/projects/test/target/test-classes:/Users/davidemanenti/projects/test/target/classes:/Users/davidemanenti/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/Users/davidemanenti/projects/moduleb/target/test-classes:/Users/davidemanenti/projects/moduleb/target/classes:/Users/davidemanenti/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
-    <property name="sun.java.command" value="/Users/davidemanenti/projects/test/target/surefire/surefirebooter1710394029174096985.jar /Users/davidemanenti/projects/test/target/surefire/surefire7385901748268479481tmp /Users/davidemanenti/projects/test/target/surefire/surefire3036533171935012680tmp"/>
+    <property name="sun.java.command" value="/Users/davidemanenti/projects/moduleb/target/surefire/surefirebooter7860601634877723176.jar /Users/davidemanenti/projects/moduleb/target/surefire/surefire8131020065049028019tmp /Users/davidemanenti/projects/moduleb/target/surefire/surefire4475734857791567124tmp"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="it"/>
     <property name="awt.toolkit" value="apple.awt.CToolkit"/>
